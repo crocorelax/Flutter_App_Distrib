@@ -42,7 +42,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: '',
-    appId: '1:119657201740:web:deca1ca4e94100fa84f4e9',
+    appId: '',
     messagingSenderId: '119657201740',
     projectId: 'app-distributeur',
     authDomain: 'app-distributeur.firebaseapp.com',
@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: '',
-    appId: '1:119657201740:android:f7b2e0838c8b734284f4e9',
+    appId: '',
     messagingSenderId: '119657201740',
     projectId: 'app-distributeur',
     storageBucket: 'app-distributeur.firebasestorage.app',
@@ -60,7 +60,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: '',
-    appId: '1:119657201740:ios:f3e7cd459e40912e84f4e9',
+    appId: '',
     messagingSenderId: '119657201740',
     projectId: 'app-distributeur',
     storageBucket: 'app-distributeur.firebasestorage.app',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: '',
-    appId: '1:119657201740:ios:f3e7cd459e40912e84f4e9',
+    appId: '',
     messagingSenderId: '119657201740',
     projectId: 'app-distributeur',
     storageBucket: 'app-distributeur.firebasestorage.app',
@@ -80,7 +80,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: '',
-    appId: '1:119657201740:web:e57280ef3341288684f4e9',
+    appId: '',
     messagingSenderId: '119657201740',
     projectId: 'app-distributeur',
     authDomain: 'app-distributeur.firebaseapp.com',
